@@ -1,1 +1,1 @@
-module bitbucket.org/lior_nabat/nuid
+module github.com/lior_nabat/nuid
